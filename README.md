@@ -8,7 +8,7 @@ The goal is to identify customers who may churn and help telecom companies impro
 
 ## Project Workflow
 
-![Telecom Customer Churn Prediction Workflow](workflow.png)
+![Telecom Customer Churn Prediction Workflow](https://github.com/Bhoopana-KS/Telecom-Customer-Churn-Prediction/blob/main/WorkFlow.png)
 
 ## Machine Learning Algorithms
 
